@@ -1,0 +1,21 @@
+.flex {
+  display: flex;
+  align-items: center;
+  margin: 10px 0px;
+}
+
+.hidden {
+  display: none;
+}
+
+input {
+  margin: 0px 5px;
+}
+
+p {
+  margin: 0px;
+}
+
+.result {
+  font-weight: bold;
+}
